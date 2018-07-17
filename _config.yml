@@ -4,24 +4,23 @@
 # Site settings
 title: HawkWare
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  Software development for SolidWorks and SolidWorks PDM
+  crafted by [Hawk Ridge Systems](http://hawkridgesys.com)
+owner: Hawk Ridge Systems # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: info@hawkwareapps.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hawkwareapps.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/Hawk_Ridge_Sys
+  github: https://github.com/hawkwareapps
+  linkedin-square: https://www.linkedin.com/company/hawk-ridge-systems/
+  facebook-official: https://www.facebook.com/hawkridgesystems/
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
-  #youtube-square:
+  youtube-square: https://www.youtube.com/channel/UCMdEy4D1tF8vbyc8WLhDs6g
   #spotify:
   #stack-overflow:
   #vimeo:
