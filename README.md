@@ -1,7 +1,7 @@
 Our public site.  Enjoy!
 
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/hawkwareapps.github.io.svg?label=website)]
+[![Website hawkwareapps.github.io](https://img.shields.io/website-up-down-green-red/http/hawkwareapps.github.io.svg)](https://hawkwareapps.github.io)
 
 
 You can even contribute if you'd like! 
