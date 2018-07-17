@@ -7,6 +7,7 @@ description: |
   Software development for SolidWorks and SolidWorks PDM
   crafted by [Hawk Ridge Systems](http://hawkridgesys.com)
 owner: Hawk Ridge Systems # or company name
+owner_url: https://hawkridgesys.com
 first_published: 2018 # if migrating another site, the year of your first publish
 email: info@hawkwareapps.com
 baseurl: "" # the subpath of your site, e.g. /blog
